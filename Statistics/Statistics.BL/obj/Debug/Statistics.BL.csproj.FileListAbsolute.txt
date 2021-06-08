@@ -1,0 +1,18 @@
+D:\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\bin\Debug\Statistics.BL.dll
+D:\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\bin\Debug\Statistics.BL.pdb
+D:\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.csproj.CoreCompileInputs.cache
+D:\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.dll
+D:\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.pdb
+D:\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.csprojAssemblyReference.cache
+D:\000\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\bin\Debug\Statistics.BL.dll
+D:\000\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\bin\Debug\Statistics.BL.pdb
+D:\000\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.csprojAssemblyReference.cache
+D:\000\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.csproj.CoreCompileInputs.cache
+D:\000\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.dll
+D:\000\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.pdb
+c:\Users\admin\Documents\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\bin\Debug\Statistics.BL.dll
+c:\Users\admin\Documents\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\bin\Debug\Statistics.BL.pdb
+c:\Users\admin\Documents\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.csprojAssemblyReference.cache
+c:\Users\admin\Documents\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.dll
+c:\Users\admin\Documents\Мои документы\ФИТ\Семестр 5\ТИиК\Лабораторные работы\ЛБ_1\Statistics\Statistics.BL\obj\Debug\Statistics.BL.pdb
